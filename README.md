@@ -1,0 +1,1 @@
+[Read Introduction to RookieDB here](IntroToRookieDB)
